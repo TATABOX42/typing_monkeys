@@ -3,7 +3,7 @@
 # Author: Benjamin Tovar
 # Date: August 15, 2014
 #
-# post: http://tata-box-blog.blogspot.com/2014/08/update-100-prisoners-100-lines-of-code.html
+# post: http://tata-box-blog.blogspot.mx/2014/09/if-typing-monkeys-have-met-mr-markov.html
 # ***********************************
 
 
